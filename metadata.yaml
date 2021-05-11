@@ -1,0 +1,34 @@
+_repo: The-Fritz-Strafers-A-Story-of-the-Great-War_65262
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Stanley L.
+    alias: Wood, Stanley Llewellyn
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '4541'
+    url: http://www.gutenberg.org/2009/agents/4541
+    wikipedia: https://en.wikipedia.org/wiki/Stanley_L._Wood
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: https://en.wikipedia.org/wiki/Percy_F._Westerman
+description: ''
+gutenberg_issued: '2021-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Fritz Strafers
+
+  A Story of the Great War'
+url: http://www.gutenberg.org/ebooks/65262
