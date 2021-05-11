@@ -1,5 +1,5 @@
 _repo: The-Fritz-Strafers-A-Story-of-the-Great-War_65262
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Wood, Stanley L.
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4541'
     url: http://www.gutenberg.org/2009/agents/4541
     wikipedia: https://en.wikipedia.org/wiki/Stanley_L._Wood
+covers:
+- cover_type: archival
+  image_path: 65262-h/images/01_cover.jpg
 creator:
   author:
     agent_name: Westerman, Percy F. (Percy Francis)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32140
     wikipedia: https://en.wikipedia.org/wiki/Percy_F._Westerman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65262#The-Fritz-Strafers-A-Story-of-the-Great-War
 gutenberg_issued: '2021-05-05'
 gutenberg_type: Text
 identifiers:
